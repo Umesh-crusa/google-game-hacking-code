@@ -1,0 +1,8 @@
+# google-game-hacking-code
+hacking code
+ 
+ 1.
+google game hake key:=  Runner.prototype.gameOver=function() {}
+2
+how to increase  speed that game :- Runner.instance_.setSpeed(20000);
+3
